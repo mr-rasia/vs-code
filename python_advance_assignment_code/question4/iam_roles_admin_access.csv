@@ -1,0 +1,4 @@
+IAMRoleName,PolicyName
+AWSReservedSSO_AdministratorAccess_1b35ee0561004eb4,AdministratorAccess
+RoleForSwitchAccount,AdministratorAccess
+stacksets-exec-eccf505405deb58ed97f54b5c839e339,AdministratorAccess
